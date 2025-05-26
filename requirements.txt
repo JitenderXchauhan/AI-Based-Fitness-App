@@ -6,7 +6,6 @@ torchvision
 Pillow
 numpy
 importlib
-base64
 xhtml2pdf
 tempfile
 langchain_groq
