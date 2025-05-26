@@ -7,7 +7,6 @@ Pillow
 numpy
 importlib
 xhtml2pdf
-tempfile
 langchain_groq
 langchain
 dotenv
