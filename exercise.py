@@ -44,7 +44,13 @@ Each day's table must have the following columns:
 Guidelines:
 - Tailor intensity based on age and fitness goal.
 - Avoid exercises that could worsen the injuries.
+- one recovery/rest day per week.
+- minimum 5 exercise for one mucles groups.
+- muscles includes chest biceps back triceps legs forearms shoulders.
+- each day is associated with single muscle exercise that impact the muscles.
+- must mention muscles group with each day except rest day.
 - End with a paragraph of **rest/recovery advice**.
+
 """
     )
 

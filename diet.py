@@ -42,6 +42,10 @@ Each section must include a table with these columns:
 - Notes
 
 Make the meals practical, varied, nutrient-rich, and disease-conscious.
+Guidelines:
+- take care of disease as prior input that not effect the health.
+- at last must include total protein , fibre , carbs , and other vitamins and minerals get from the diet.
+
 """
     )
 
